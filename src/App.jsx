@@ -10,6 +10,7 @@ function App() {
     <div>
       <header className="header-component">
         <h1>Ottergram</h1>
+        <h3>A photo-sharing for sea otters, some of the most charming marine animals</h3>
       </header>
 
       <ul className="post-list">
